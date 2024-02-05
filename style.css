@@ -57,7 +57,7 @@ body {
 }
 .header {
   min-height: 740px;
-  background-image: url(/code/img/first-screen-bg.jpg);
+  background-image: url(first-screen-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover; 
 }
@@ -396,7 +396,7 @@ body {
   display: inline-block;
   width: 15px;
   height: 15px;
-  background-image: url(/code/img/arrow-icon.svg);
+  background-image: url(arrow-icon.svg);
   background-repeat: no-repeat;
   background-position: center;
   margin-right: 14px;
